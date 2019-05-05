@@ -1,0 +1,67 @@
+body{
+  background-color: #FEEDAA;
+  margin: 0;
+  font-family: 'Oswald', sans-serif;
+  font-weight: 300;
+}
+
+.square{
+  width: 30%;
+  background: purple;
+  padding-bottom: 30%;
+  float: left;
+  margin: 1.66%;
+  border-radius: 25%;
+  transition: background .5s;
+}
+
+#container{
+  max-width: 600px;
+  margin: 30px auto;
+}
+
+h1{
+  color: white;
+  background: #FED017;
+  text-align: center;
+  margin: 0;
+}
+
+.isSelected{
+  color: white;
+  background: #FED017;
+}
+
+button{
+  border: none;
+  background: none;
+  text-transform: uppercase;
+  height: 100%;
+  font-weight: 600;
+  font-size: inherit;
+  color: #FEB201;
+  letter-spacing: 1px;
+  transition: all 0.5s;
+  outline: none;
+}
+
+button:hover{
+  color: white;
+  background:#FED017;
+}
+
+
+#bar{
+  background: white;
+  height: 30px;
+  text-align: center;
+}
+
+#colorDisplay{
+  font-size: 150%;
+}
+
+#message{
+  display: inline-block;
+  width: 20%;
+}
