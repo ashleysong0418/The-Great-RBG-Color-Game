@@ -1,4 +1,4 @@
-# The-Great-RBG-Color-Game
+# The-Great-RGB-Color-Game
 A game for guessing colors
 
 Using HTML, CSS, and Javascript, this program allows users to play a small game of matching colors with the RBG color codes presented. 
